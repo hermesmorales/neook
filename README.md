@@ -1,2 +1,0 @@
-# neook
-many projects
